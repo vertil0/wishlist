@@ -5,8 +5,7 @@ module.exports = {
   entry: './src/index.js',
   output: {
     path: path.resolve(__dirname, 'dist'),
-    filename: 'js/bundle.js',
-    publicPath: "/"
+    filename: 'bundle.js'
   },
   module: {
     rules: [
@@ -49,7 +48,7 @@ module.exports = {
       favicon: './public/favicon.ico',
       manifest: './public/manifest.json'
     }), 
-    new ExtractTextPlugin('css/mystyles.css')
+    new ExtractTextPlugin('mystyles.css')
   ],
   devServer: {
     historyApiFallback: true,
