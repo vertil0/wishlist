@@ -19,29 +19,11 @@ class sheet extends Component {
     super(props)
     this.state = {}
   }
-  rechangePoints = () => {
-    const { character } = this.props
-    let newPonits = (character.ST - 10) * 10
-    this.props.changePoints(newPonits)
-  }
   render() {
     const {switchTab, tab, points, changePoints, character} = this.props
     return (
       <div>
-        <Tabs 
-        switchTab = {switchTab}
-        tabName = {tab}
-        points = {points}
-        changePoints = {changePoints}
-        />
-        <section className="section">
-        {tab === '1' && 
-        <Description/>}
-        {tab === '2' && 
-        <Attributes
-        rechangePoints = {this.rechangePoints}
-        character = {character}/>}
-        </section>
+        1
       </div>
     )
   }
