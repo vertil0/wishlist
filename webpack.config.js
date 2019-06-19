@@ -5,7 +5,8 @@ module.exports = {
   entry: './src/index.js',
   output: {
     path: path.resolve(__dirname, 'dist'),
-    filename: 'js/bundle.js'
+    filename: 'js/bundle.js',
+    publicPath: "/"
   },
   module: {
     rules: [
@@ -25,6 +26,11 @@ module.exports = {
         ]
       },
       {
+        test: /\.(png|svg|jpg|jpeg|gif|json|ico)$/,
+        exclude: /node_modules/,
+        use: ['file-loader?name=[name].[ext]'] // ?name=[name].[ext] is only necessary to preserve the original file name
+      },
+      {
         test: /\.scss$/,
         use: ExtractTextPlugin.extract({
           fallback: 'style-loader',
@@ -39,7 +45,9 @@ module.exports = {
   plugins: [
     new HtmlWebPackPlugin({
       template: "./public/index.html",
-      filename: "./index.html"
+      filename: "./index.html",
+      favicon: './public/favicon.ico',
+      manifest: './public/manifest.json'
     }), 
     new ExtractTextPlugin('css/mystyles.css')
   ],
