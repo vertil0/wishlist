@@ -1,8 +1,5 @@
 import React, { Component } from 'react'
 
-const roundedButton = {
-  borderRadius: 4 + 'px !important'
-}
 
 export default class Tabs extends Component {
   constructor(props) {

@@ -3,8 +3,6 @@ import { bindActionCreators } from 'redux'
 import { connect } from "react-redux"
 import { actions as rootActions, NAME as ROOT_NAME } from '../index'
 import Tabs from '../components/Tabs'
-import Description from '../components/Description'
-import Attributes from '../components/Attributes'
 function mapStateToProps (state) {
   return {
     ...state[ROOT_NAME]
@@ -20,11 +18,9 @@ class sheet extends Component {
     this.state = {}
   }
   render() {
-    const {switchTab, tab, points, changePoints, character} = this.props
     return (
-      <div>
-        1
-      </div>
+      <Tabs {...this.props}>
+      </Tabs>
     )
   }
 }
