@@ -2,8 +2,11 @@
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
+  "main": "src/mystyles.scss",
   "homepage": "http://ForestedVertilo.github.io/wishlist",
   "dependencies": {
+    "bulma": "^0.7.5",
+    "node-sass": "^4.12.0",
     "react": "^15.5.4",
     "react-dom": "^15.5.4"
   },
@@ -13,10 +16,11 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "css-build": "node-sass --omit-source-map-url src/mystyles.scss src/mystyles.css",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"    
+    "deploy": "gh-pages -d build"
   }
 }
