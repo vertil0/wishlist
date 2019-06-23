@@ -7,7 +7,7 @@
 $purple: #A167A5;
 $pink: #5A9367;
 $brown: #384D48;
-$beige-light: #ACAD94;
+$beige-light: rgba(178, 179, 163, 0.993);
 $beige-lighter: #D5D6B8;
 
 // Update Bulma's global variables
@@ -26,12 +26,4 @@ $input-border-color: transparent;
 $input-shadow: none;
 
 // Import only what you need from Bulma
-@import "../node_modules/bulma/sass/utilities/_all.sass";
-@import "../node_modules/bulma/sass/base/_all.sass";
-@import "../node_modules/bulma/sass/elements/button.sass";
-@import "../node_modules/bulma/sass/elements/container.sass";
-@import "../node_modules/bulma/sass/elements/title.sass";
-@import "../node_modules/bulma/sass/form/_all.sass";
-@import "../node_modules/bulma/sass/components/navbar.sass";
-@import "../node_modules/bulma/sass/layout/hero.sass";
-@import "../node_modules/bulma/sass/layout/section.sass";
+@import "../node_modules/bulma/bulma.sass";

@@ -1,0 +1,44 @@
+{
+    "music": [
+    {
+        "name": "Uta no Prince-sama Maji LOVE Legend Star Duet Idol Song Otoya Ittoki & Eiichi Otori [Regular Edition]",
+        "img": "http://st.cdjapan.co.jp/pictures/l/05/33/QECB-88.jpg",
+        "artist": "Otoya Ittoki (Takuma Terashima), Eiichi Otori (Hikaru Midorikawa)",
+        "price": "1400¥",
+        "comment": "",
+        "link": "http://www.cdjapan.co.jp/product/QECB-88"
+    },
+    {
+        "name": "THE IDOLM@STER (The Idolmaster) ANIM@TION MASTER 05",
+        "img": "http://st.cdjapan.co.jp/pictures/l/15/08/COCX-36901.jpg",
+        "artist": "V.A.",
+        "price": "2667¥",
+        "comment": "",
+        "link": "http://www.cdjapan.co.jp/product/COCX-36901"
+    },
+    {
+        "name": "The Idolm@ster Master New Series 961 Pro 'Over Master' [Regular Edition]",
+        "img": "http://st.cdjapan.co.jp/pictures/l/03/28/COCC-16220.jpg?v=1",
+        "artist": "Miki Hoshii, Hibiki Ganaha, Takane Shijo",
+        "price": "1143¥",
+        "comment": "",
+        "link": "http://www.cdjapan.co.jp/product/COCC-16220"
+    },
+    {
+        "name": "'Love Live! Sunshine!!' 3rd Single: Happy Party Train [CD+Blu-ray]",
+        "img": "http://st.cdjapan.co.jp/pictures/l/03/36/LACM-14590.jpg?v=1",
+        "artist": "Aqours",
+        "price": "3000¥",
+        "comment": "",
+        "link": "http://www.cdjapan.co.jp/product/LACM-14590"
+    },
+    {
+        "name": "'Love Live! Sunshine!!' Unit Single 3 Strawberry Trapper",
+        "img": "http://st.cdjapan.co.jp/pictures/l/03/33/LACM-14483.jpg?v=1",
+        "artist": "Aqours",
+        "price": "1200¥",
+        "comment": "",
+        "link": "http://www.cdjapan.co.jp/product/LACM-14483"
+    }
+    ]
+}
