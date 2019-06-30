@@ -1,10 +1,13 @@
 import React, { Component } from 'react'
+import Items from './Items'
+import Modal from './Modal'
+import Papers from './Papers'
 import axios from 'axios'
 
 class App extends Component {
   constructor(props) {
     super(props)
-    this.state = { tab: '1', music: {} }
+    this.state = { tab: '1', music: {}, technics: {}, games: {}, papers: {}, modal: false, modalItem: {} }
   }
   changeTab = (tab) => {
     this.setState({ tab })
@@ -12,81 +15,70 @@ class App extends Component {
   componentWillMount() {
     axios.get('wishes.json').then(item => {
       console.log(item)
-      this.setState({ music: item.data.music })
+      this.setState({ music: item.data.music, technics: item.data.technics, games: item.data.games, papers: item.data.papers })
     })
   }
 
-  renderMusic = () => {
-    
-   const priority = {'1': "is-error", "2": "is-warning", "3": "is-success", "4": "is-primary"}
-    return this.state.music.map(item => {
-      console.log(item.checked)
-      return (
-        <tr className={"nes-text " + priority[item.priority]} >
-        <td>
-        <label>
-  <input type="checkbox" className="nes-checkbox" onClick={(e) => e.preventDefault()} checked={item.checked}/>
-  <span></span>
-</label>
-  </td>
+  openModal = (item) => {
+    console.log(item.img)
+    this.setState({ modal: true, modalItem: item })
+  }
 
-        <td>{item.name}</td>
-        <td>{item.artist}</td>
-        <td>{item.price}</td>
-      </tr>
-      )
-    })
-}
+  closeModal = () => {
+    this.setState({ modal: false })
+  }
   render() {
-    console.log(this.state.music)
     return (
-      <div><div className="nes-container with-title is-centered" id="technics">
-      <p className="title"><a href="#technics">#</a>Техника</p>
-      <p>"Подымая технику до уровня фантазии, не опусти фантазию до уровня техники."</p>
-          <p>Владимир Хочинский </p>
-    </div>
-    <br/>
-    <progress className="nes-progress" value={0} max={this.state.music.length }></progress>
-    <div className="nes-table-responsive">
-      <table className="nes-table is-bordered is-centered">
-        <thead>
-          <tr>
-            <th></th>
-            <th>Название альбома</th>
-            <th>Исполнитель</th>
-            <th>Цена</th>
-          </tr>
-        </thead>
-        <tbody>
-          
-        </tbody>
-      </table>
-    </div>
-    <br/>
-        <div className="nes-container with-title is-centered" id="music">
-  <p className="title"><a href="#music">#</a>Музыка</p>
-  <p>"Биение сердца это первый источник музыки!"</p>
-      <p>Сияющий Сатомэ</p>
-</div>
-<br/>
-<progress className="nes-progress" value={0} max={this.state.music.length }></progress>
-<div className="nes-table-responsive">
-  <table className="nes-table is-bordered is-centered">
-    <thead>
-      <tr>
-        <th></th>
-        <th>Название альбома</th>
-        <th>Исполнитель</th>
-        <th>Цена</th>
-      </tr>
-    </thead>
-    <tbody>
-      {this.state.music && this.state.music.length > 0 && this.renderMusic()}
-    </tbody>
-  </table>
-</div>
-      {/* <img src="https://geekflare.com/wp-content/uploads/2018/10/uikit.png"  style={{imageRendering: "pixelated"}}></img> */}
+      <div>
+        <div class="nes-container is-dark with-title is-centered">
+          <p class="title">Список желаний</p>
+          <p><a href="#papers">#</a>Печатные издания</p>
+          <p><a href="#games">#</a>Игры</p>
+          <p><a href="#technics">#</a>Техника</p>
+          <p><a href="#music">#</a>Музыка</p>
+        </div>
+        <br/>
+      <div className="nes-container with-title is-centered is-rounded" id="papers">
+        <p className="title"><a href="#papers">#</a>Печатные издания</p>
+        <p>"Комиксы, как сиськи. Они прекрасно выглядят на компьютере, но лучше бы я держал их в руках."</p>
+        <p>Стэн Ли</p>
       </div>
+      <Papers
+        items={this.state.papers}
+        openModal={this.openModal} />
+      <div className="nes-container with-title is-centered is-rounded" id="games">
+        <p className="title"><a href="#games">#</a>Игры</p>
+        <p>"Игра - это праздник, потому что она выводит нас за пределы прагматики и на самый серьёзный вопрос нашего времени «зачем?» отвечает, глазом не моргнув: да просто так!"</p>
+        <p>Роже Кайуа</p>
+      </div>
+      <Items
+        items={this.state.games}
+        openModal={this.openModal} />
+      <div className="nes-container with-title is-centered is-rounded" id="technics">
+        <p className="title"><a href="#technics">#</a>Техника</p>
+        <p>"Подымая технику до уровня фантазии, не опусти фантазию до уровня техники."</p>
+        <p>Владимир Хочинский </p>
+      </div>
+      <Items
+        items={this.state.technics}
+        openModal={this.openModal} />
+      <div className="nes-container with-title is-centered is-rounded" id="music">
+        <p className="title"><a href="#music">#</a>Музыка</p>
+        <p>"Биение сердца это первый источник музыки!"</p>
+        <p>Сияющий Сатомэ</p>
+      </div>
+      <Items
+        items={this.state.music}
+        openModal={this.openModal} />
+        {
+      this.state.modal &&
+      <Modal
+        closeModal={this.closeModal}
+        item={this.state.modalItem}
+      />
+    }
+    {/* <img src="https://geekflare.com/wp-content/uploads/2018/10/uikit.png"  style={{imageRendering: "pixelated"}}></img> */ }
+      </div >
     )
   }
 }

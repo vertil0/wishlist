@@ -3,7 +3,6 @@
         {
             "name": "Uta no Prince-sama Maji LOVE Legend Star Duet Idol Song Otoya Ittoki & Eiichi Otori [Limited Pressing]",
             "img": "http://st.cdjapan.co.jp/pictures/l/13/09/QECB-90088.jpg?v=1",
-            "artist": "Otoya Ittoki, Eiichi Otori",
             "price": "1600¥",
             "comment": "",
             "link": "http://www.cdjapan.co.jp/product/QECB-90088",
@@ -13,7 +12,6 @@
         {
             "name": "THE IDOLM@STER (The Idolmaster) ANIM@TION MASTER 05",
             "img": "http://st.cdjapan.co.jp/pictures/l/15/08/COCX-36901.jpg",
-            "artist": "V.A.",
             "price": "2667¥",
             "comment": "",
             "link": "http://www.cdjapan.co.jp/product/COCX-36901",
@@ -23,7 +21,6 @@
         {
             "name": "The Idolm@ster Master New Series 961 Pro 'Over Master' [Regular Edition]",
             "img": "http://st.cdjapan.co.jp/pictures/l/03/28/COCC-16220.jpg?v=1",
-            "artist": "Miki Hoshii, Hibiki Ganaha, Takane Shijo",
             "price": "1143¥",
             "comment": "",
             "link": "http://www.cdjapan.co.jp/product/COCC-16220",
@@ -32,7 +29,6 @@
         },
         {
             "name": "'Love Live! Sunshine!!' 3rd Single: Happy Party Train [CD+Blu-ray]",
-            "img": "http://st.cdjapan.co.jp/pictures/l/03/36/LACM-14590.jpg?v=1",
             "artist": "Aqours",
             "price": "3000¥",
             "comment": "",
@@ -43,7 +39,6 @@
         {
             "name": "'Love Live! Sunshine!!' Unit Single 3 Strawberry Trapper",
             "img": "http://st.cdjapan.co.jp/pictures/l/03/33/LACM-14483.jpg?v=1",
-            "artist": "Aqours",
             "price": "1200¥",
             "comment": "",
             "link": "http://www.cdjapan.co.jp/product/LACM-14483",
@@ -53,7 +48,6 @@
         {
             "name": "Uta no Prince-Sama Theater Shining Pirates of the Frontier [Regular Edition]",
             "img": "http://st.cdjapan.co.jp/pictures/l/05/08/QECB-1070.jpg?v=1",
-            "artist": "Ranmaru Kurosaki, Camus, Otoya Ittoki",
             "price": "2190¥",
             "comment": "",
             "link": "http://www.cdjapan.co.jp/product/QECB-1070",
@@ -63,17 +57,15 @@
         {
             "name": "Uta no Prince-sama Shining Live Theme Song CD [Regular Edition]",
             "img": "http://st.cdjapan.co.jp/pictures/l/05/28/QECB-91.jpg?v=1",
-            "artist": "STARISH, Quartet Night",
             "price": "1400¥",
             "comment": "",
             "link": "http://www.cdjapan.co.jp/product/QECB-91",
-            "priority": "1",
+            "priority": "2",
             "checked": false
         },
         {
             "name": "Uta no Prince Sama Shining Masterpiece Show Torowa -Ken to Kizuna no Monogatari- [Regular Edition]",
             "img": "http://st.cdjapan.co.jp/pictures/l/05/11/QECB-1081.jpg?v=1",
-            "artist": "Camus, Sho Kurusu, Ai Mikaze",
             "price": "2200¥",
             "comment": "",
             "link": "http://www.cdjapan.co.jp/product/QECB-1081",
@@ -83,7 +75,6 @@
         {
             "name": "Uta no Prince-Sama Theater Shining BLOODY SHADOWS [Regular Edition]",
             "img": "http://st.cdjapan.co.jp/pictures/l/05/15/QECB-1069.jpg?v=2",
-            "artist": "Camus, Sho Kurusu, Ai Mikaze",
             "price": "2190¥",
             "comment": "",
             "link": "http://www.cdjapan.co.jp/product/QECB-1069",
@@ -93,7 +84,6 @@
         {
             "name": "Uta no Prince-Sama Gekidan Shinning Masquerade Mirage [Regular Edition]",
             "img": "http://st.cdjapan.co.jp/pictures/l/05/06/QECB-1060.jpg?v=2",
-            "artist": "Reiji Kotobuki, Ai Mikaze, Natsuki Shinomiya",
             "price": "2190¥",
             "comment": "",
             "link": "http://www.cdjapan.co.jp/product/QECB-1060",
@@ -103,7 +93,6 @@
         {
             "name": "'Love Live! Sunshine!! 2nd Season (TV Anime)' Insert Song: MY Mai TONIGHT / MIRACLE WAVE",
             "img": "http://st.cdjapan.co.jp/pictures/l/03/41/LACM-14691.jpg?v=2",
-            "artist": "Aqours",
             "price": "1300¥",
             "comment": "",
             "link": "http://www.cdjapan.co.jp/product/LACM-14691",
@@ -113,7 +102,6 @@
         {
             "name": "Uta no Prince-Sama Gekidan Shinning JOKER TRAP [Regular Edition]",
             "img": "http://st.cdjapan.co.jp/pictures/l/05/08/QECB-1062.jpg?v=1",
-            "artist": "Ranmaru Kurosaki, Camus, Tokiya Ichinose, Ranmaru Kurosaki",
             "price": "2190¥",
             "comment": "",
             "link": "http://www.cdjapan.co.jp/product/QECB-1062",
@@ -123,7 +111,6 @@
         {
             "name": "Uta no Prince-sama Maji LOVE Legend Star Duet Idol Song Tokiya Ichinose & Eiji Otori [Limited Pressing]",
             "img": "http://st.cdjapan.co.jp/pictures/l/05/27/QECB-82.jpg?v=1",
-            "artist": "Tokiya Ichinose, Eiji Otori",
             "price": "1600¥",
             "comment": "",
             "link": "http://www.cdjapan.co.jp/product/QECB-90082",
@@ -133,7 +120,6 @@
         {
             "name": "Uta no Prince-sama Debut Unit Drama CD Camus & Cecil",
             "img": "http://st.cdjapan.co.jp/pictures/l/05/08/QECB-1038.jpg?v=1",
-            "artist": "Camus, Cecil",
             "price": "2190¥",
             "comment": "",
             "link": "http://www.cdjapan.co.jp/product/QECB-1038",
@@ -143,7 +129,6 @@
         {
             "name": "'Uta no Prince-sama Maji Love Kingdom (Movie)' Special Unit Drama CD Natsuki.Ranmaru.Eiichi [Limited Edition]",
             "img": "http://st.cdjapan.co.jp/pictures/l/13/15/QECB-91086.jpg?v=2",
-            "artist": "Natsuki, Ranmaru, Eiichi",
             "price": "3000¥",
             "comment": "",
             "link": "http://www.cdjapan.co.jp/product/QECB-91086",
@@ -153,7 +138,6 @@
         {
             "name": "'Uta no Prince-sama Maji Love Kingdom (Movie)' Special Unit Drama CD Otoya.Ai.Van [Limited Edition]",
             "img": "http://st.cdjapan.co.jp/pictures/l/13/14/QECB-91085.jpg?v=1",
-            "artist": "Otoya, Ai, Van",
             "price": "3000¥",
             "comment": "",
             "link": "http://www.cdjapan.co.jp/product/QECB-91085",
@@ -163,7 +147,6 @@
         {
             "name": "'Uta no Prince-sama Maji Love Kingdom (Movie)' Special Unit Drama CD Tokiya.Cecil.Yamato [Limited Edition]",
             "img": "http://st.cdjapan.co.jp/pictures/l/13/11/QECB-91090.jpg?v=1",
-            "artist": "Tokiya, Cecil, Yamato",
             "price": "3000¥",
             "comment": "",
             "link": "http://www.cdjapan.co.jp/product/QECB-91090",
@@ -173,7 +156,6 @@
         {
             "name": "'Uta no Prince-sama Maji Love Kingdom (Movie)' Special Unit Drama CD Masato.Camus.Eiji [Limited Edition]",
             "img": "http://st.cdjapan.co.jp/pictures/l/13/16/QECB-91087.jpg?v=2",
-            "artist": "Masato, Camus, Eiji",
             "price": "3000¥",
             "comment": "",
             "link": "http://www.cdjapan.co.jp/product/QECB-91087",
@@ -183,7 +165,6 @@
         {
             "name": "Uta no Prince-sama Debut Unit Drama CD Ranmaru & Masato & Ren",
             "img": "http://st.cdjapan.co.jp/pictures/l/05/02/QECB-1040.jpg?v=1",
-            "artist": "Ranmaru, Masato, Ren",
             "price": "2190¥",
             "comment": "",
             "link": "http://www.cdjapan.co.jp/product/QECB-1040",
@@ -193,7 +174,6 @@
         {
             "name": "Uta no Prince-sama Debut Unit Drama CD Ai & Natsuki & Sho",
             "img": "http://st.cdjapan.co.jp/pictures/l/05/09/QECB-1039.jpg?v=1",
-            "artist": "Ai, Natsuki, Sho",
             "price": "2190¥",
             "comment": "",
             "link": "http://www.cdjapan.co.jp/product/QECB-1039",
@@ -203,7 +183,6 @@
         {
             "name": "Uta no Prince-sama Debut Unit Drama CD Reiji & Otoya & Tokiya",
             "img": "http://www.cdjapan.co.jp/product/QECB-1041",
-            "artist": "Reiji, Otoya, Tokiya",
             "price": "2190¥",
             "comment": "",
             "link": "http://www.cdjapan.co.jp/product/QECB-1041",
@@ -213,7 +192,6 @@
         {
             "name": "Uta no Prince Sama Idol Song Reiji & Camus [Regular Edition]",
             "img": "http://st.cdjapan.co.jp/pictures/l/05/34/QECB-89.jpg?v=1",
-            "artist": "Reiji Kotobuki, Camus",
             "price": "1400¥",
             "comment": "",
             "link": "http://www.cdjapan.co.jp/product/QECB-89",
@@ -223,7 +201,6 @@
         {
             "name": "'Uta no Prince Sama' Audition Song 4",
             "img": "http://st.cdjapan.co.jp/pictures/l/05/19/QECB-18.jpg?v=1",
-            "artist": "Otoya Ittoki, Masato Hijirikawa, Natsuki Shinomiya",
             "price": "1200¥",
             "comment": "",
             "link": "http://www.cdjapan.co.jp/product/QECB-18",
@@ -500,5 +477,543 @@
             "priority": "1",
             "checked": false
         }
-    ]
+    ],
+    "technics": [
+        {
+            "name": "Nintendo New 2DS XL",
+            "img": "https://hotline.ua/img/tx/167/1672811415.jpg",
+            "price": "4679₴",
+            "comment": "Вообще, я её невероятно сильно хочу, но если она будет у меня одного, то будет не интересно играть.",
+            "link": "https://hotline.ua/computer-igrovye-pristavki/nintendo-new-2ds-xl-white-orange/",
+            "priority": "2",
+            "checked": false
+        },
+        {
+            "name": "Увлажнитель воздуха",
+            "img": "https://hotline.ua/img/tx/167/1674453315.jpg",
+            "price": "400₴",
+            "comment": "Сойдет любой. Цена указанна средняя.",
+            "link": "https://hotline.ua/bt/uvlazhniteli-ochistiteli-vozduha/133538/",
+            "priority": "4",
+            "checked": false
+        },
+        {
+            "name": "La Sardina & Flash Quadrat",
+            "img": "https://www.fotovramke.com/images/Produkty/Lomography_kamery/la_sardina_quadrat_4.jpg",
+            "price": "2690₴",
+            "comment": "",
+            "link": "https://www.fotovramke.com/images/Produkty/Lomography_kamery/la_sardina_quadrat_4.jpg",
+            "priority": "1",
+            "checked": false
+        },
+        {
+            "name": "JBL Free black",
+            "img": "https://hotline.ua/img/tx/191/1911639145.jpg",
+            "price": "3999₴",
+            "comment": "",
+            "link": "https://hotline.ua/av-naushniki-garnitury/jbl-free-black/",
+            "priority": "2",
+            "checked": false
+        },
+        {
+            "name": "Nintendo Switch Pro",
+            "img": "https://hotline.ua/img/tx/200/2002341995.jpg",
+            "price": "1949₴",
+            "comment": "Геймпад для свитча мне невероятно нужен, так как не всем моим дружбанам удоны маленькие геймпады.",
+            "link": "https://hotline.ua/computer-gejmpady-dzhojstiki-ruli/nintendo-switch-pro/",
+            "priority": "1",
+            "checked": false
+        },
+        {
+            "name": "Nintendo 64 Gamepad",
+            "img": "https://images-na.ssl-images-amazon.com/images/I/91qahZOIs6L._SL1500_.jpg",
+            "price": "10$",
+            "comment": "Обязательно с USB выходом! Нужен для прохождения некоторых старых игр!",
+            "link": "https://ru.aliexpress.com/af/n64-gamepad.html",
+            "priority": "2",
+            "checked": false
+        },
+        {
+            "name": "Подставка для Ноутбука",
+            "img": "https://hotline.ua/img/tx/364/364562325.jpg",
+            "price": "300₴",
+            "comment": "Сойдет любая. Цена указанна средняя.",
+            "link": "https://hotline.ua/computer/podstavki-dlya-noutbukov/",
+            "priority": "2",
+            "checked": false
+        }
+    ],
+    "games": [
+        {
+            "name": "Super Mario Odyssey",
+            "img": "https://hotline.ua/img/tx/200/2003666875.jpg",
+            "price": "1400₴",
+            "comment": "Везде читал, что игра мастхэв, так что хотелось бы поиграть.",
+            "link": "https://hotline.ua/computer-igry-dlya-pristavok/super-mario-odyssey-nintendo-switch/",
+            "priority": "2",
+            "checked": false
+        },
+        {
+            "name": "Final Fantasy XV (Royal Edition) (PS4)",
+            "img": "https://up2date.com.ua/image/cache/catalog/ps4_games_new/final-fantasy-xv-royal-edition-400x400.jpg",
+            "price": "1239₴",
+            "comment": "Невероятно сильно хочу в нее по-играть! Мечтаю уже как года два. Помогите!!!",
+            "link": "https://up2date.com.ua/final-fantasy-xv-royal-edition-russkaya-versiya-ps4.html",
+            "priority": "1",
+            "checked": false
+        },
+        {
+            "name": "Super Mario Party + Joy-Con Pink/Green",
+            "img": "https://hotline.ua/img/tx/185/185507280_s265.jpg",
+            "price": "4099₴",
+            "comment": "Невероятно сильно хочу, но нету с кем играть.",
+            "link": "https://hotline.ua/computer-igry-dlya-pristavok/super-mario-party-plus-joy-con-pinkgreen/",
+            "priority": "2",
+            "checked": false
+        },
+        {
+            "name": "Assassins Creed Odyssey (PS4)",
+            "img": "https://hotline.ua/img/tx/180/180680108_s265.jpg",
+            "price": "1099₴",
+            "comment": "",
+            "link": "https://hotline.ua/computer-igry-dlya-pristavok/assassins-creed-odyssey-ps4",
+            "priority": "4",
+            "checked": false
+        },
+        {
+            "name": "Sekiro: Shadows Die Twice (PS4)",
+            "img": "https://hotline.ua/img/tx/192/192407622_s265.jpg",
+            "price": "1899₴",
+            "comment": "",
+            "link": "https://hotline.ua/computer-igry-dlya-pristavok/sekiro-shadows-die-twice-ps4/",
+            "priority": "2",
+            "checked": false
+        },
+        {
+            "name": "Persona 5 (PS4)",
+            "img": "https://hotline.ua/img/tx/196/196500462_s265.jpg",
+            "price": "915₴",
+            "comment": "",
+            "link": "https://hotline.ua/computer-igry-dlya-pristavok/persona-5-ps4/",
+            "priority": "1",
+            "checked": false
+        },
+        {
+            "name": "Monster Hunter: World (PS4)",
+            "img": "https://up2date.com.ua/image/cache/catalog/ps4_games_new/monster-hunter-world-500x500.jpg",
+            "price": "1099₴",
+            "comment": "",
+            "link": "https://hotline.ua/computer-igry-dlya-pristavok/monster-hunter-world-ps4",
+            "priority": "2",
+            "checked": false
+        },
+        {
+            "name": "Pokémon: Let's Go, Eevee! + Poké Ball Plus",
+            "img": "https://hotline.ua/img/tx/184/1842945125.jpg",
+            "price": "2699₴",
+            "comment": "",
+            "link": "https://hotline.ua/computer-igry-dlya-pristavok/nintendo-pok233mon-lets-go-eevee-nintendo-switch-plus-pok233-ball-plus/",
+            "priority": "2",
+            "checked": false
+        },
+        {
+            "name": "Nioh (PS4)",
+            "img": "https://hotline.ua/img/tx/197/197438062_s265.jpg",
+            "price": "820₴",
+            "comment": "",
+            "link": "https://hotline.ua/computer-igry-dlya-pristavok/nioh-ps4/",
+            "priority": "4",
+            "checked": false
+        },
+        {
+            "name": "God of War 4: Limited Edition (PS4)",
+            "img": "https://hotline.ua/img/tx/200/200568060_s265.jpg",
+            "price": "2249₴",
+            "comment": "",
+            "link": "https://hotline.ua/computer-igry-dlya-pristavok/god-of-war-4-limited-edition-ps4",
+            "priority": "1",
+            "checked": false
+        },
+        {
+            "name": "Captain Toad: Treasure Tracker (PS4)",
+            "img": "https://hotline.ua/img/tx/177/1776110275.jpg",
+            "price": "1188₴",
+            "comment": "",
+            "link": "https://hotline.ua/computer-igry-dlya-pristavok/captain-toad-treasure-tracker-nintendo-switch/",
+            "priority": "2",
+            "checked": false
+        },
+        {
+            "name": "Middle-Earth: Shadow of Mordor (PS4)",
+            "img": "https://up2date.com.ua/image/cache/data/1033_0-400x400.jpg",
+            "price": "749₴",
+            "comment": "",
+            "link": "https://hotline.ua/computer-igry-dlya-pristavok/middle-earth-shadow-of-mordor-ps4/",
+            "priority": "4",
+            "checked": false
+        },
+        {
+            "name": "The Banner Saga Trilogy (Nintendo Switch)",
+            "img": "https://hotline.ua/img/tx/200/2006061025.jpg",
+            "price": "1449₴",
+            "comment": "",
+            "link": "https://hotline.ua/computer-igry-dlya-pristavok/he-banner-saga-trilogy-nintendo-switch/",
+            "priority": "4",
+            "checked": false
+        },
+        {
+            "name": "Splatoon 2 (Nintendo Switch)",
+            "img": "https://hotline.ua/img/tx/194/1946057715.jpg",
+            "price": "1549₴",
+            "comment": "",
+            "link": "https://hotline.ua/computer-igry-dlya-pristavok/splatoon-2-nintendo-switch/",
+            "priority": "1",
+            "checked": false
+        },
+        {
+            "name": "Moonlighter (Nintendo Switch)",
+            "img": "https://hotline.ua/img/tx/198/198529459_s265.jpg",
+            "price": "1299₴",
+            "comment": "",
+            "link": "https://hotline.ua/computer-igry-dlya-pristavok/moonlighter-nintendo-switch/",
+            "priority": "1",
+            "checked": false
+        },
+        {
+            "name": "1-2-Switch (Nintendo Switch)",
+            "img": "https://hotline.ua/img/tx/200/200480052_s265.jpg",
+            "price": "1239₴",
+            "comment": "",
+            "link": "https://hotline.ua/computer-igry-dlya-pristavok/1-2-switch-switch/",
+            "priority": "4",
+            "checked": false
+        },
+        {
+            "name": "Cartoon Network Battle Crashers (Nintendo Switch)",
+            "img": "https://hotline.ua/img/tx/200/200605984_s265.jpg",
+            "price": "1349₴",
+            "comment": "",
+            "link": "https://hotline.ua/computer-igry-dlya-pristavok/cartoon-network-battle-crashers-nintendo-switch/",
+            "priority": "2",
+            "checked": false
+        },
+        {
+            "name": "South Park: The Fractured but Whole (Nintendo Switch)",
+            "img": "https://hotline.ua/img/tx/175/175111600_s265.jpg",
+            "price": "1699₴",
+            "comment": "",
+            "link": "https://hotline.ua/computer-igry-dlya-pristavok/south-park-the-fractured-but-whole-nintendo-switch/",
+            "priority": "1",
+            "checked": false
+        },
+        {
+            "name": "Xenoblade Chronicles 2: Torna - The Golden Country (Nintendo Switch)",
+            "img": "https://hotline.ua/img/tx/175/175111600_s265.jpg",
+            "price": "1499₴",
+            "comment": "",
+            "link": "https://hotline.ua/computer-igry-dlya-pristavok/xenoblade-chronicles-2-torna-the-golden-country-nintendo-switch/",
+            "priority": "3",
+            "checked": false
+        },
+        {
+            "name": "The Witcher 3: Wild Hunt (PS4)",
+            "img": "https://img.moyo.ua/img/products/4329/86_600x_1543911349.jpg",
+            "price": "1249₴",
+            "comment": "",
+            "link": "https://hotline.ua/computer-igry-dlya-pristavok/the-witcher-3-wild-hunt-ps4",
+            "priority": "1",
+            "checked": false
+        },
+        {
+            "name": "Dragon Age: Inquisition (PS4)",
+            "img": "https://hotline.ua/img/tx/197/1974380635.jpg",
+            "price": "585₴",
+            "comment": "",
+            "link": "https://hotline.ua/computer-igry-dlya-pristavok/dragon-age-inquisition-ps4/",
+            "priority": "1",
+            "checked": false
+        },
+        {
+            "name": "Mirror's Edge Catalyst (PS4)",
+            "img": "https://hotline.ua/img/tx/200/2005777205.jpg",
+            "price": "599₴",
+            "comment": "",
+            "link": "https://hotline.ua/computer-igry-dlya-pristavok/mirrors-edge-catalyst-ps4/",
+            "priority": "4",
+            "checked": false
+        },
+        {
+            "name": "Horizon Zero Dawn (PS4)",
+            "img": "https://img.moyo.ua/img/products/4258/48_600x_1541682157.jpg",
+            "price": "1299₴",
+            "comment": "",
+            "link": "https://hotline.ua/computer-igry-dlya-pristavok/horizon-zero-dawn-ps4/",
+            "priority": "1",
+            "checked": false
+        },
+        {
+            "name": "Uncharted 4 (PS4)",
+            "img": "https://hotline.ua/img/tx/192/192998294_s265.jpg",
+            "price": "549₴",
+            "comment": "",
+            "link": "https://hotline.ua/computer-igry-dlya-pristavok/uncharted-4-ps4/",
+            "priority": "2",
+            "checked": false
+        }
+    ],
+    "papers": {
+        "Бесобой": [
+            {
+                "name": "Бесобой. Том 1. Имя ему Бесобой",
+                "img": "https://www.onthebus.com.ua/wa-data/public/shop/products/71/00/71/images/157/157.0x970.jpg",
+                "price": "230₴",
+                "comment": "",
+                "link": "https://www.onthebus.com.ua/komiksy/besoboy-tom-1-imya-emu-besoboy/",
+                "priority": "1",
+                "checked": true
+            },
+            {
+                "name": "Бесобой. Том 2. Лицо Зверя",
+                "img": "https://www.onthebus.com.ua/wa-data/public/shop/products/72/00/72/images/19538/19538.0x450@2x.jpg",
+                "price": "240₴",
+                "comment": "",
+                "link": "https://www.onthebus.com.ua/komiksy/besoboy-tom-2-litso-zverya/",
+                "priority": "1",
+                "checked": true
+            },
+            {
+                "name": "Бесобой. Том 3. Три сестры",
+                "img": "https://www.onthebus.com.ua/wa-data/public/shop/products/73/00/73/images/159/159.0x450@2x.jpg",
+                "price": "225₴",
+                "comment": "",
+                "link": "https://www.onthebus.com.ua/komiksy/besoboy-tom-3-tri-sestry/",
+                "priority": "1",
+                "checked": true
+            },
+            {
+                "name": "Бесобой. Том 4. Балор",
+                "img": "https://www.onthebus.com.ua/wa-data/public/shop/products/74/00/74/images/10627/10627.0x450@2x.jpg",
+                "price": "230₴",
+                "comment": "",
+                "link": "https://www.onthebus.com.ua/komiksy/besoboy-tom-4-balor/",
+                "priority": "1",
+                "checked": true
+            },
+            {
+                "name": "Бесобой. Том 5. Метро",
+                "img": "https://www.onthebus.com.ua/wa-data/public/shop/products/75/00/75/images/161/161.0x970.jpg",
+                "price": "230₴",
+                "comment": "",
+                "link": "https://www.onthebus.com.ua/komiksy/besoboy-tom-5-metro/",
+                "priority": "1",
+                "checked": true
+            },
+            {
+                "name": "Бесобой. Том 6. Стая",
+                "img": "https://www.onthebus.com.ua/wa-data/public/shop/products/76/00/76/images/165/165.200x0@2x.jpg",
+                "price": "235₴",
+                "comment": "",
+                "link": "https://www.onthebus.com.ua/komiksy/besoboy-tom-6-staya-/",
+                "priority": "1",
+                "checked": false
+            },
+            {
+                "name": "Бесобой. Том 7. Жертвы обстоятельств",
+                "img": "https://www.onthebus.com.ua/wa-data/public/shop/products/41/10/1041/images/2937/2937.200x0@2x.jpg",
+                "price": "275₴",
+                "comment": "",
+                "link": "https://www.onthebus.com.ua/komiksy/besoboy-tom-7-zhertvy-obstoyatelstv/",
+                "priority": "1",
+                "checked": false
+            },
+            {
+                "name": "Бесобой. Том 8. Гончие Ада",
+                "img": "https://www.onthebus.com.ua/wa-data/public/shop/products/86/22/2286/images/6367/6367.200x0@2x.jpg",
+                "price": "235₴",
+                "comment": "",
+                "link": "https://www.onthebus.com.ua/komiksy/besoboy-tom-8-gonchie-ada/",
+                "priority": "1",
+                "checked": false
+            },
+            {
+                "name": "Бесобой. Том 9. Чъреба",
+                "img": "https://www.onthebus.com.ua/komiksy/besoboy-tom-9-chreba/",
+                "price": "230₴",
+                "comment": "",
+                "link": "https://www.onthebus.com.ua/komiksy/besoboy-tom-9-chreba/",
+                "priority": "1",
+                "checked": false
+            }
+        ],
+        "Инок против Бесобоя": [
+            {
+                "name": "Инок против Бесобоя",
+                "img": "https://www.onthebus.com.ua/wa-data/public/shop/products/70/00/70/images/156/156.0x450@2x.png",
+                "price": "270₴",
+                "comment": "",
+                "link": "https://www.onthebus.com.ua/komiksy/inok-protiv-besoboya/",
+                "priority": "2",
+                "checked": false
+            }
+        ],
+        "Инок": [
+            {
+                "name": "Инок. Том 1. Проданная Реликвия. Книга первая",
+                "img": "https://www.onthebus.com.ua/wa-data/public/shop/products/64/00/64/images/150/150.200x0@2x.jpg",
+                "price": "225₴",
+                "comment": "",
+                "link": "https://www.onthebus.com.ua/komiksy/inok-tom-1-prodannaya-relikviya/",
+                "priority": "1",
+                "checked": false
+            },
+            {
+                "name": "Инок. Том 2. Проданная Реликвия. Книга вторая",
+                "img": "https://www.onthebus.com.ua/wa-data/public/shop/products/65/00/65/images/151/151.200x0@2x.jpg",
+                "price": "245₴",
+                "comment": "",
+                "link": "https://www.onthebus.com.ua/komiksy/inok-kniga-2-prodannaya-relikviya/",
+                "priority": "1",
+                "checked": false
+            },
+            {
+                "name": "Инок. Том 3. Зверь во мне. Книга первая",
+                "img": "https://www.onthebus.com.ua/wa-data/public/shop/products/66/00/66/images/152/152.200x0@2x.jpg",
+                "price": "230₴",
+                "comment": "",
+                "link": "https://www.onthebus.com.ua/komiksy/inok-tom-3-zver-vo-mne-kniga-pervaya/",
+                "priority": "1",
+                "checked": false
+            },
+            {
+                "name": "Инок. Том 4. Зверь во мне. Книга вторая",
+                "img": "https://www.onthebus.com.ua/wa-data/public/shop/products/67/00/67/images/153/153.200x0@2x.jpg",
+                "price": "210₴",
+                "comment": "",
+                "link": "https://www.onthebus.com.ua/komiksy/inok-tom-4-zver-vo-mne-kniga-vtoraya/",
+                "priority": "1",
+                "checked": false
+            },
+            {
+                "name": "Инок. Том. 5. Высокое напряжение",
+                "img": "https://www.onthebus.com.ua/wa-data/public/shop/products/68/00/68/images/154/154.200x0@2x.jpg",
+                "price": "210₴",
+                "comment": "",
+                "link": "https://www.onthebus.com.ua/komiksy/inok-tom-5-vysokoe-napryazhenie/",
+                "priority": "1",
+                "checked": false
+            },
+            {
+                "name": "Инок. Том. 6. Сердце монстра",
+                "img": "https://www.onthebus.com.ua/wa-data/public/shop/products/43/10/1043/images/2951/2951.200x0@2x.jpg",
+                "price": "235₴",
+                "comment": "",
+                "link": "https://www.onthebus.com.ua/komiksy/inok-tom-6-mertvaya-khvatka/",
+                "priority": "1",
+                "checked": false
+            },
+            {
+                "name": "Инок. Том 7. Мертвая хватка",
+                "img": "https://www.onthebus.com.ua/wa-data/public/shop/products/44/10/1044/images/2955/2955.200x0@2x.jpg",
+                "price": "210₴",
+                "comment": "",
+                "link": "https://www.onthebus.com.ua/komiksy/inok-tom-7-mertvaya-khvatka/",
+                "priority": "1",
+                "checked": false
+            },
+            {
+                "name": "Инок. Том 8. Путь к бессмертию",
+                "img": "https://www.onthebus.com.ua/wa-data/public/shop/products/95/51/5195/images/15196/15196.200x0@2x.jpg",
+                "price": "250₴",
+                "comment": "",
+                "link": "https://www.onthebus.com.ua/komiksy/inok-tom-8-put-k-bessmertiyu/",
+                "priority": "1",
+                "checked": false
+            }
+        ],
+        "Крестовый поход": [
+            {
+                "name": "Крестовый поход. Пролог",
+                "img": "https://www.onthebus.com.ua/wa-data/public/shop/products/15/85/8515/images/30056/30056.200x0@2x.jpg",
+                "price": "60₴",
+                "comment": "",
+                "link": "https://www.onthebus.com.ua/komiksy/krestovyy-pokhod-prolog/",
+                "priority": "2",
+                "checked": false
+            },
+            {
+                "name": "Крестовый Поход №1",
+                "img": "https://www.onthebus.com.ua/wa-data/public/shop/products/23/92/9223/images/32743/32743.200x0@2x.jpg",
+                "price": "60₴",
+                "comment": "",
+                "link": "https://www.onthebus.com.ua/komiksy/krestovyy-pokhod-1/",
+                "priority": "2",
+                "checked": false
+            },
+            {
+                "name": "Крестовый Поход №2",
+                "img": "https://www.onthebus.com.ua/wa-data/public/shop/products/66/93/9366/images/33316/33316.200x0@2x.jpg",
+                "price": "60₴",
+                "comment": "",
+                "link": "https://www.onthebus.com.ua/komiksy/krestovyy-pokhod-2/",
+                "priority": "2",
+                "checked": false
+            },
+            {
+                "name": "Крестовый Поход №3",
+                "img": "https://www.onthebus.com.ua/wa-data/public/shop/products/67/93/9367/images/33322/33322.200x0@2x.jpg",
+                "price": "60₴",
+                "comment": "",
+                "link": "https://www.onthebus.com.ua/komiksy/krestovyy-pokhod-3/",
+                "priority": "2",
+                "checked": false
+            },
+            {
+                "name": "Крестовый поход №4",
+                "img": "https://static-eu.insales.ru/images/products/1/845/208634701/large_d37cab135bdc17764c5d3b75db35351f.jpg",
+                "price": "130₽",
+                "comment": "",
+                "link": "https://www.chookandgeek.ru/product/krestovyy-pohod-4",
+                "priority": "2",
+                "checked": false
+            },
+            {
+                "name": "Крестовый Поход. Эпилог",
+                "img": "https://static-eu.insales.ru/images/products/1/6091/212842443/large_1___%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.jpg",
+                "price": "130₽",
+                "comment": "",
+                "link": "https://www.chookandgeek.ru/product/krestovyy-pohod-epilog",
+                "priority": "2",
+                "checked": false
+            }
+        ],
+        "Варкрафт. Хроники.": [
+            {
+                "name": "Варкрафт. Хроники. Том 1",
+                "img": "https://www.onthebus.com.ua/wa-data/public/shop/products/68/05/568/images/1688/1688.200x0@2x.jpg",
+                "price": "660₴",
+                "comment": "",
+                "link": "https://www.onthebus.com.ua/artbuki-entsiklopedii/varkraft-khroniki-tom-1/",
+                "priority": "2",
+                "checked": false
+            },
+            {
+                "name": "Варкрафт. Хроники. Том 2",
+                "img": "https://www.onthebus.com.ua/wa-data/public/shop/products/65/57/5765/images/17715/17715.200x0@2x.jpg",
+                "price": "660₴",
+                "comment": "",
+                "link": "https://www.onthebus.com.ua/artbuki-entsiklopedii/varkraft-khroniki-tom-2/",
+                "priority": "2",
+                "checked": false
+            },
+            {
+                "name": "Варкрафт. Хроники. Том 3",
+                "img": "https://www.onthebus.com.ua/wa-data/public/shop/products/90/83/8390/images/29648/29648.200x0@2x.jpg",
+                "price": "690₴",
+                "comment": "",
+                "link": "https://www.onthebus.com.ua/artbuki-entsiklopedii/varkraft-khroniki-tom-3/",
+                "priority": "2",
+                "checked": false
+            }
+        ]
+    }
 }
