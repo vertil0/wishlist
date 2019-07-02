@@ -27,7 +27,7 @@ export default class Modal extends Component {
         <div style={ModalStyle}>
           <dialog className="nes-dialog" open style={{ margin: "1% auto", width: '400px' }}>
             <p className="title">{name}</p>
-            <img style={{ width: "100%", imageRendering: "pixelated" }} src={img} alt=''></img>
+            <img style={{ width: "100%"}} src={img} alt=''></img>
             <br/>
             <br/>
             <p>Приоритет: <span className={"nes-text " + priorityClass[priority]}>{priorityList[priority]}</span></p>

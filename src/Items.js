@@ -40,7 +40,7 @@ export default class Items extends Component {
                                                 </label>
                                             </td>
                                             <td onClick={() => openModal(item)} className='nes-pointer'>{item.name}</td>
-                                            <td>{item.price}</td>
+                                            <td>{this.props.exchangeCurrency(item.price)}</td>
                                         </tr>
                                     )
                                 })}

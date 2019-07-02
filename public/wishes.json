@@ -930,6 +930,80 @@
                 "checked": false
             }
         ],
+        "Майор Гром": [
+            {
+                "name": "Майор Гром. Том 1. Чумной Доктор. Книга первая",
+                "img": "https://www.onthebus.com.ua/wa-data/public/shop/products/83/00/83/images/178/178.0x450@2x.jpg",
+                "price": "230₴",
+                "comment": "",
+                "link": "https://www.onthebus.com.ua/komiksy/mayor-grom-tom-1-chumnoy-doktor-kniga-pervaya/",
+                "priority": "2",
+                "checked": false
+            },
+            {
+                "name": "Майор Гром. Том 2. Чумной Доктор. Книга вторая",
+                "img": "https://www.onthebus.com.ua/wa-data/public/shop/products/84/00/84/images/179/179.200x0@2x.png",
+                "price": "235₴",
+                "comment": "",
+                "link": "https://www.onthebus.com.ua/komiksy/mayor-grom-tom-2-chumnoy-doktor-kniga-vtoraya/",
+                "priority": "2",
+                "checked": false
+            },
+            {
+                "name": "Майор Гром. Том 3. День Святого Патрика",
+                "img": "https://www.onthebus.com.ua/wa-data/public/shop/products/85/00/85/images/180/180.200x0@2x.jpg",
+                "price": "270₴",
+                "comment": "",
+                "link": "https://www.onthebus.com.ua/komiksy/mayor-grom-tom-3-den-svyatogo-patrika/",
+                "priority": "2",
+                "checked": false
+            },
+            {
+                "name": "Майор Гром. Том 4. Как в сказке",
+                "img": "https://www.onthebus.com.ua/wa-data/public/shop/products/86/00/86/images/181/181.200x0@2x.jpg",
+                "price": "235₴",
+                "comment": "",
+                "link": "https://www.onthebus.com.ua/komiksy/mayor-grom-tom-4-kak-v-skazke/",
+                "priority": "2",
+                "checked": false
+            },
+            {
+                "name": "Майор Гром. Том 5. Игра",
+                "img": "https://www.onthebus.com.ua/wa-data/public/shop/products/87/00/87/images/185/185.200x0@2x.jpg",
+                "price": "275₴",
+                "comment": "",
+                "link": "https://www.onthebus.com.ua/komiksy/mayor-grom-tom-5-igra/",
+                "priority": "2",
+                "checked": false
+            },
+            {
+                "name": "Майор Гром. Том 6. Голоса",
+                "img": "https://www.onthebus.com.ua/wa-data/public/shop/products/88/00/88/images/189/189.200x0@2x.jpg",
+                "price": "235₴",
+                "comment": "",
+                "link": "https://www.onthebus.com.ua/komiksy/mayor-grom-tom-6-golosa/",
+                "priority": "2",
+                "checked": false
+            },
+            {
+                "name": "Майор Гром и Красная Фурия. Том 7. В сердце тьмы",
+                "img": "https://www.onthebus.com.ua/wa-data/public/shop/products/49/10/1049/images/2973/2973.200x0@2x.jpg",
+                "price": "275₴",
+                "comment": "",
+                "link": "https://www.onthebus.com.ua/komiksy/mayor-grom-i-krasnaya-furiya-tom-7-v-serdtse-tmy/",
+                "priority": "2",
+                "checked": false
+            },
+            {
+                "name": "Майор Гром. Том 8. Последнее дело",
+                "img": "https://www.onthebus.com.ua/wa-data/public/shop/products/94/51/5194/images/15194/15194.200x0@2x.jpg",
+                "price": "250₴",
+                "comment": "",
+                "link": "https://www.onthebus.com.ua/komiksy/mayor-grom-tom-8-poslednee-delo/",
+                "priority": "2",
+                "checked": false
+            }
+        ],
         "Крестовый поход": [
             {
                 "name": "Крестовый поход. Пролог",
@@ -1015,5 +1089,144 @@
                 "checked": false
             }
         ]
-    }
+    },
+    "clothes": [
+        {
+            "name": "Бананка Tiger Moon Print динозавры",
+            "img": "https://images.ua.prom.st/1459922469_w640_h640_sumka-na-poyas.jpg",
+            "price": "199₴",
+            "comment": "",
+            "link": "https://prom.ua/ua/p836084825-sumka-poyas-bananka.html",
+            "priority": "1",
+            "checked": false
+        },
+        {
+            "name": "Серебряное кольцо с рунами",
+            "img": "https://www.instagram.com/p/BsBVXHynxaI/media?size=l",
+            "price": "1500₴",
+            "comment": "",
+            "link": "https://www.instagram.com/ermak_jewelry/",
+            "priority": "2",
+            "checked": false
+        },
+        {
+            "name": "Футболка Олів'єха є?! А якщо знайду?",
+            "img": "https://www.instagram.com/p/BrN5AF6Bpya/media?size=l",
+            "price": "239₴",
+            "comment": "",
+            "link": "https://www.instagram.com/p/BrN5AF6Bpya/",
+            "priority": "2",
+            "checked": false
+        },
+        {
+            "name": "Набор носков Low Space Bamboo",
+            "img": "https://griffonsocks.com.ua/wp-content/uploads/2019/06/32453-min.jpg",
+            "price": "335₴",
+            "comment": "",
+            "link": "https://griffonsocks.com.ua/product/low-space-bamboo/",
+            "priority": "2",
+            "checked": false
+        },
+        {
+            "name": "Кулон 'Еверест'",
+            "img": "https://jewellery.kochut.org/image/cache/catalog/products/0595-1-700x700.jpg",
+            "price": "112$",
+            "comment": "",
+            "link": "https://jewellery.kochut.org/shop/pendants/everest-pendant-silver/",
+            "priority": "2",
+            "checked": false
+        }
+    ],
+    "boardGames": [
+        {
+            "name": "Босс-монстр",
+            "img": "https://cf.geekdo-images.com/opengraph/img/z-uW_1OyByiYZdP5_ijRRt0VW94=/fit-in/1200x630/pic1732644.jpg",
+            "price": "436₴",
+            "comment": "",
+            "link": "https://www.bgames.com.ua/product_info.php?products_id=848",
+            "priority": "1",
+            "checked": false
+        },
+        {
+            "name": "Билет на Поезд: Европа",
+            "img": "https://desktopgames.com.ua/games/688/ticket_to_ride_europe_box.png",
+            "price": "1516₴",
+            "comment": "",
+            "link": "https://desktopgames.com.ua/ticket-to-ride-europe-rus.html",
+            "priority": "1",
+            "checked": false
+        },
+        {
+            "name": "Эпичные Схватки Боевых Магов: Переполох в Хоромах страсти",
+            "img": "https://i5.stat01.com/2/1047/110465658/075a3e/jepichnye-shvatki-magov-beschinstvo-v-zamke-sprutobojni.png",
+            "price": "680₴",
+            "comment": "",
+            "link": "https://desktopgames.com.ua/epic-spell-wars-pleasure-palace-ru.html",
+            "priority": "1",
+            "checked": false
+        },
+        {
+            "name": "Агентство ВРЕМЯ",
+            "img": "https://desktopgames.com.ua/games/2219/agenstvo_box.png",
+            "price": "1750₴",
+            "comment": "",
+            "link": "https://desktopgames.com.ua/agentstvo-vremya.html",
+            "priority": "4",
+            "checked": false
+        },
+        {
+            "name": "Ужас Аркхэма",
+            "img": "https://desktopgames.com.ua/games/77/arkham-horror-rus-box.jpg",
+            "price": "1906₴",
+            "comment": "",
+            "link": "https://desktopgames.com.ua/arkham_horror.html",
+            "priority": "2",
+            "checked": false
+        },
+        {
+            "name": "Brass. Бирмингем",
+            "img": "https://desktopgames.com.ua/games/3056/brass_box.png",
+            "price": "2550₴",
+            "comment": "",
+            "link": "https://desktopgames.com.ua/ua/brass-birmingem.html",
+            "priority": "2",
+            "checked": false
+        },
+        {
+            "name": "CIV. Carta Impera Victoria",
+            "img": "https://desktopgames.com.ua/games/4061/carta_impera_victoria_rus_260.png",
+            "price": "571₴",
+            "comment": "",
+            "link": "https://desktopgames.com.ua/civ-carta-impera-victoria-ru.html",
+            "priority": "2",
+            "checked": false
+        },
+        {
+            "name": "Подземелье. Царство Ледяной Ведьмы",
+            "img": "https://s3-page.ozstatic.by/1000/544/494/10/10494544_0.jpg",
+            "price": "320₴",
+            "comment": "",
+            "link": "https://desktopgames.com.ua/dungeoneer-ice-witch.html",
+            "priority": "1",
+            "checked": false
+        },
+        {
+            "name": "Подземелье. Гробница Повелителя Мёртвых",
+            "img": "https://www.mirf.ru/wp-content/uploads/2015/10/Dungeoneer_box.jpg",
+            "price": "320₴",
+            "comment": "",
+            "link": "https://desktopgames.com.ua/dungeoneer-tomb-rus.html",
+            "priority": "1",
+            "checked": false
+        },
+        {
+            "name": "Майор Гром: Мафия",
+            "img": "https://www.onthebus.com.ua/wa-data/public/shop/products/34/91/9134/images/32453/32453.0x450.jpg",
+            "price": "150₴",
+            "comment": "",
+            "link": "https://www.onthebus.com.ua/nastolnye-i-kartochnye-igry/mayor-grom-mafiya/",
+            "priority": "4",
+            "checked": false
+        }
+    ]
 }
