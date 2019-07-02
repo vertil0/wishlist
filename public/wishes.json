@@ -1088,6 +1088,35 @@
                 "priority": "2",
                 "checked": false
             }
+        ],
+        "Другое": [
+            {
+                "name": "Гарри Поттер. Карта Мародёров",
+                "img": "https://www.onthebus.com.ua/wa-data/public/shop/products/79/81/8179/images/28456/28456.0x450@2x.jpg",
+                "price": "560₴",
+                "comment": "",
+                "link": "https://www.onthebus.com.ua/artbuki-entsiklopedii/garri-potter-karta-marodyorov-s-volshebnoy-palochkoy/",
+                "priority": "4",
+                "checked": false
+            },
+            {
+                "name": "Варкрафт. Хроники. Том 2",
+                "img": "https://www.onthebus.com.ua/wa-data/public/shop/products/65/57/5765/images/17715/17715.200x0@2x.jpg",
+                "price": "660₴",
+                "comment": "",
+                "link": "https://www.onthebus.com.ua/artbuki-entsiklopedii/varkraft-khroniki-tom-2/",
+                "priority": "2",
+                "checked": false
+            },
+            {
+                "name": "Артбук The Legend Of Zelda: Сокровища в рисунках",
+                "img": "https://www.onthebus.com.ua/wa-data/public/shop/products/87/83/8387/images/29473/29473.0x450@2x.jpg",
+                "price": "1040₴",
+                "comment": "",
+                "link": "https://www.onthebus.com.ua/artbuki-entsiklopedii/artbuk-the-legend-of-zelda-sokrovishcha-v-risunkakh/",
+                "priority": "2",
+                "checked": false
+            }
         ]
     },
     "clothes": [
@@ -1226,6 +1255,118 @@
             "comment": "",
             "link": "https://www.onthebus.com.ua/nastolnye-i-kartochnye-igry/mayor-grom-mafiya/",
             "priority": "4",
+            "checked": false
+        }
+    ],
+    "other": [
+        {
+            "name": "Набор открыток Bitmap Books - Glitch",
+            "img": "https://www.onthebus.com.ua/wa-data/public/shop/products/62/89/8962/images/31708/31708.0x450@2x.gif",
+            "price": "490₴",
+            "comment": "",
+            "link": "https://www.onthebus.com.ua/stikery-postery/nabor-otkrytok-bitmap-books---glitch/",
+            "priority": "2",
+            "checked": false
+        },
+        {
+            "name": "Топор Warcraft Axe of Durotan",
+            "img": "https://www.onthebus.com.ua/figurki-igrushki/topor-warcraft-axe-of-durotan/",
+            "price": "745₴",
+            "comment": "",
+            "link": "https://www.onthebus.com.ua/figurki-igrushki/topor-warcraft-axe-of-durotan/",
+            "priority": "1",
+            "checked": false
+        },
+        {
+            "name": "Чашка Mega Man Mega Buster",
+            "img": "https://www.onthebus.com.ua/wa-data/public/shop/products/20/51/5120/images/14811/14811.0x450@2x.jpg",
+            "price": "495₴",
+            "comment": "",
+            "link": "https://www.onthebus.com.ua/figurki-igrushki/chashka-mega-man-mega-buster/",
+            "priority": "1",
+            "checked": false
+        }
+    ],
+    "foods": [
+        {
+            "name": "SpongeBob SquarePants Gummy Krabby Patties Colors Candy",
+            "img": "https://www.onthebus.com.ua/wa-data/public/shop/products/48/97/9748/images/34830/34830.0x450@2x.jpg",
+            "price": "120₴",
+            "comment": "",
+            "link": "https://www.onthebus.com.ua/yeda-i-sladosti/spongebob-squarepants-gummy-krabby-patties-colors-candy/",
+            "priority": "2",
+            "checked": false
+        },
+        {
+            "name": "Паприка молотая Nongshim",
+            "img": "https://images.ua.prom.st/989317604_w640_h640_24251810_19157__62756542_n.jpg",
+            "price": "263₴",
+            "comment": "",
+            "link": "https://asiafoods.com.ua/p621135617-paprika-molotaya-nongshim.html",
+            "priority": "1",
+            "checked": false
+        },
+        {
+            "name": "Лапша Рамен быстрого приготовлaения с морепродуктами Seafood Ramyun Nong Shim",
+            "img": "https://images.ua.prom.st/1068141633_w640_h640_localphoto_222.jpg",
+            "price": "44₴",
+            "comment": "",
+            "link": "https://asiafoods.com.ua/p657120583-lapsha-ramen-bystrogo.html",
+            "priority": "1",
+            "checked": false
+        },
+        {
+            "name": "Лапша Рамен быстрого приготовления среднеострая с морепродуктами Mild Neoguri Ramyun Nong Shim",
+            "img": "https://images.ua.prom.st/1075006540_w640_h640_nongshim_sushenaya_neoguri_400x400.jpg",
+            "price": "44₴",
+            "comment": "",
+            "link": "https://asiafoods.com.ua/p660715109-lapsha-ramen-bystrogo.html",
+            "priority": "1",
+            "checked": false
+        },
+        {
+            "name": "Лапша быстрого приготовления Jjajangmen Paldo",
+            "img": "https://images.ua.prom.st/505631098_w640_h640_dsc_0226.jpg",
+            "price": "47₴",
+            "comment": "",
+            "link": "https://asiafoods.com.ua/p355054840-lapsha-bystrogo-prigotovleniya.html",
+            "priority": "1",
+            "checked": false
+        },
+        {
+            "name": "Лапша быстрого приготовления в стакане со вкусом курици и грибов CUP Noodles",
+            "img": "https://images.ua.prom.st/1563551160_w640_h640_fullsizerender_1548850351.jpg",
+            "price": "37₴",
+            "comment": "",
+            "link": "https://asiafoods.com.ua/p879027296-lapsha-bystrogo-prigotovleniya.html",
+            "priority": "1",
+            "checked": false
+        },
+        {
+            "name": "Лапша быстрого приготовления в стакане со вкусом говядины CUP Noodles",
+            "img": "https://images.ua.prom.st/1563557943_w640_h640_fullsizerender_1548850347.jpg",
+            "price": "37₴",
+            "comment": "",
+            "link": "https://asiafoods.com.ua/p879027294-lapsha-bystrogo-prigotovleniya.html",
+            "priority": "1",
+            "checked": false
+        },
+        {
+            "name": "Лапша быстрого приготовления в стакане вегетарианская CUP Noodles",
+            "img": "https://images.ua.prom.st/1563560085_w640_h640_fullsizerender_1548850354.jpg",
+            "price": "37₴",
+            "comment": "",
+            "link": "https://asiafoods.com.ua/p879027291-lapsha-bystrogo-prigotovleniya.html",
+            "priority": "1",
+            "checked": false
+        },
+        {
+            "name": "Лапша быстрого приготовления c обжаренными Кимчи Kimchi Paldo",
+            "img": "https://images.ua.prom.st/986804858_w640_h640_img_8995.jpg",
+            "price": "46₴",
+            "comment": "",
+            "link": "https://asiafoods.com.ua/p402033977-lapsha-bystrogo-prigotovleniya.html",
+            "priority": "1",
             "checked": false
         }
     ]

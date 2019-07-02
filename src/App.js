@@ -16,6 +16,8 @@ class App extends Component {
       papers: {},
       clothes: {},
       boardGames: {},
+      foods: {},
+      other: {},
       modal: false,
       modalItem: {},
       сurrency: '₴',
@@ -41,7 +43,9 @@ class App extends Component {
         games: item.data.games,
         papers: item.data.papers,
         clothes: item.data.clothes,
-        boardGames: item.data.boardGames
+        boardGames: item.data.boardGames,
+        foods: item.data.foods,
+        other: item.data.other
       })
     })
   }
@@ -78,7 +82,9 @@ class App extends Component {
           <p><a href="#papers">#</a>Печатные издания</p>
           <p><a href="#games">#</a>Игры</p>
           <p><a href="#technics">#</a>Техника</p>
+          <p><a href="#foods">#</a>Еда</p>
           <p><a href="#music">#</a>Музыка</p>
+          <p><a href="#other">#</a>Другое</p>
           <div>
             <label>
               <input type="radio" className="nes-radio is-dark" name="сurrency" checked={сurrency === "₴"} onChange={e => this.setState({сurrency: e.target.value})} value={"₴"}/>
@@ -134,10 +140,19 @@ class App extends Component {
         <div className="nes-container with-title is-centered is-rounded" id="technics">
           <p className="title"><a href="#technics">#</a>Техника</p>
           <p>"Подымая технику до уровня фантазии, не опусти фантазию до уровня техники."</p>
-          <p>Владимир Хочинский </p>
+          <p>Владимир Хочинский</p>
         </div>
         <Items
           items={this.state.technics}
+          openModal={this.openModal}
+          exchangeCurrency={this.exchangeCurrency} />
+        <div className="nes-container with-title is-centered is-rounded" id="foods">
+          <p className="title"><a href="#foods">#</a>Еда</p>
+          <p>"Ну, если ты будешь есть сладкое, но при этом думать, то не потолстеешь."</p>
+          <p>L</p>
+        </div>
+        <Items
+          items={this.state.foods}
           openModal={this.openModal}
           exchangeCurrency={this.exchangeCurrency} />
         <div className="nes-container with-title is-centered is-rounded" id="music">
@@ -147,6 +162,15 @@ class App extends Component {
         </div>
         <Items
           items={this.state.music}
+          openModal={this.openModal}
+          exchangeCurrency={this.exchangeCurrency} />
+          <div className="nes-container with-title is-centered is-rounded" id="other">
+          <p className="title"><a href="#other">#</a>Другое</p>
+          <p>"Имеешь одно, будешь иметь и другое."</p>
+          <p>Латинская пословица</p>
+        </div>
+        <Items
+          items={this.state.other}
           openModal={this.openModal}
           exchangeCurrency={this.exchangeCurrency} />
         {
