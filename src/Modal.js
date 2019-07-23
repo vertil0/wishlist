@@ -1,4 +1,5 @@
 import React, { Component } from 'react'
+import Media from 'react-media';
 
 const ModalStyle = {
     position: 'fixed', 
@@ -23,9 +24,15 @@ export default class Modal extends Component {
   
       const priorityList = { '1': "Невероятно сильно хочу", "2": "Очень хочу", "3": "Очень хочу", "4": "Хочу" }
       const priorityClass = { '1': "is-primary", "2": "is-success", "3": "is-success", "4": "is-error" }
+      let isMobile
       return (
         <div style={ModalStyle}>
-          <dialog className="nes-dialog" open style={{ margin: "1% auto", width: '400px' }}>
+          <Media query="(max-width: 599px)">
+          {matches =>
+            isMobile = !!matches
+          }
+          </Media>
+          <dialog className="nes-dialog" open style={{ margin: "1% auto", width: isMobile ? '100%' : '400px' }}>
             <p className="title">{name}</p>
             <img style={{ width: "100%"}} src={img} alt=''></img>
             <br/>

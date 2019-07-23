@@ -1060,6 +1060,26 @@
                 "checked": false
             }
         ],
+        "Пиджаки и Револьверы": [
+            {
+                "name": "Пиджаки и Револьверы. Том 1. Ящик раздора",
+                "img": "https://www.onthebus.com.ua/wa-data/public/shop/products/11/59/5911/images/30053/30053.200x0@2x.jpg",
+                "price": "220₴",
+                "comment": "",
+                "link": "Пиджаки и Револьверы. Том 1. Ящик раздора",
+                "priority": "1",
+                "checked": true
+            },
+            {
+                "name": "Пиджаки и Револьверы. Том 2. Праздник в красных тонах",
+                "img": "https://www.onthebus.com.ua/wa-data/public/shop/products/23/92/9223/images/32743/32743.200x0@2x.jpg",
+                "price": "220₴",
+                "comment": "",
+                "link": "https://www.onthebus.com.ua/komiksy/pidzhaki-i-revolvery-tom-2-prazdnik-v-krasnykh-tonakh/",
+                "priority": "1",
+                "checked": false
+            }
+        ],
         "Варкрафт. Хроники.": [
             {
                 "name": "Варкрафт. Хроники. Том 1",
@@ -1067,7 +1087,7 @@
                 "price": "660₴",
                 "comment": "",
                 "link": "https://www.onthebus.com.ua/artbuki-entsiklopedii/varkraft-khroniki-tom-1/",
-                "priority": "2",
+                "priority": "1",
                 "checked": false
             },
             {
@@ -1100,12 +1120,12 @@
                 "checked": false
             },
             {
-                "name": "Варкрафт. Хроники. Том 2",
-                "img": "https://www.onthebus.com.ua/wa-data/public/shop/products/65/57/5765/images/17715/17715.200x0@2x.jpg",
-                "price": "660₴",
+                "name": "Атлас мира Толкина",
+                "img": "https://book24.ua/upload/iblock/393/39347a9a5e9b6e0550fbb514403090a8.jpg",
+                "price": "553₴",
                 "comment": "",
-                "link": "https://www.onthebus.com.ua/artbuki-entsiklopedii/varkraft-khroniki-tom-2/",
-                "priority": "2",
+                "link": "https://book24.ua/product/atlas-mira-tolkina/",
+                "priority": "1",
                 "checked": false
             },
             {
