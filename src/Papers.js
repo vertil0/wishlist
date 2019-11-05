@@ -27,7 +27,7 @@ export default class Items extends Component {
         const count = this.getCount()
         const maxCount = this.getMaxCount()
         if( (maxCount / 3) > count ) {
-            return 'is-error'
+            return 'is-warning'
         } else if ( ((maxCount / 3) * 2) > count) {
             return 'is-success'
         } else if (maxCount > count) {

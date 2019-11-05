@@ -560,7 +560,7 @@
             "comment": "Невероятно сильно хочу в нее по-играть! Мечтаю уже как года два. Помогите!!!",
             "link": "https://up2date.com.ua/final-fantasy-xv-royal-edition-russkaya-versiya-ps4.html",
             "priority": "1",
-            "checked": false
+            "checked": true
         },
         {
             "name": "Super Mario Party + Joy-Con Pink/Green",
@@ -632,7 +632,7 @@
             "comment": "",
             "link": "https://hotline.ua/computer-igry-dlya-pristavok/god-of-war-4-limited-edition-ps4",
             "priority": "1",
-            "checked": false
+            "checked": true
         },
         {
             "name": "Captain Toad: Treasure Tracker (PS4)",
@@ -722,7 +722,7 @@
             "comment": "",
             "link": "https://hotline.ua/computer-igry-dlya-pristavok/the-witcher-3-wild-hunt-ps4",
             "priority": "1",
-            "checked": false
+            "checked": true
         },
         {
             "name": "Dragon Age: Inquisition (PS4)",
@@ -853,7 +853,7 @@
                 "comment": "",
                 "link": "https://www.onthebus.com.ua/komiksy/inok-protiv-besoboya/",
                 "priority": "2",
-                "checked": false
+                "checked": true
             }
         ],
         "Инок": [
@@ -864,7 +864,7 @@
                 "comment": "",
                 "link": "https://www.onthebus.com.ua/komiksy/inok-tom-1-prodannaya-relikviya/",
                 "priority": "1",
-                "checked": false
+                "checked": true
             },
             {
                 "name": "Инок. Том 2. Проданная Реликвия. Книга вторая",
@@ -873,7 +873,7 @@
                 "comment": "",
                 "link": "https://www.onthebus.com.ua/komiksy/inok-kniga-2-prodannaya-relikviya/",
                 "priority": "1",
-                "checked": false
+                "checked": true
             },
             {
                 "name": "Инок. Том 3. Зверь во мне. Книга первая",
@@ -1012,7 +1012,7 @@
                 "comment": "",
                 "link": "https://www.onthebus.com.ua/komiksy/krestovyy-pokhod-prolog/",
                 "priority": "2",
-                "checked": false
+                "checked": true
             },
             {
                 "name": "Крестовый Поход №1",
@@ -1021,7 +1021,7 @@
                 "comment": "",
                 "link": "https://www.onthebus.com.ua/komiksy/krestovyy-pokhod-1/",
                 "priority": "2",
-                "checked": false
+                "checked": true
             },
             {
                 "name": "Крестовый Поход №2",
@@ -1030,7 +1030,7 @@
                 "comment": "",
                 "link": "https://www.onthebus.com.ua/komiksy/krestovyy-pokhod-2/",
                 "priority": "2",
-                "checked": false
+                "checked": true
             },
             {
                 "name": "Крестовый Поход №3",
@@ -1126,7 +1126,7 @@
                 "comment": "",
                 "link": "https://book24.ua/product/atlas-mira-tolkina/",
                 "priority": "1",
-                "checked": false
+                "checked": true
             },
             {
                 "name": "Артбук The Legend Of Zelda: Сокровища в рисунках",
@@ -1174,7 +1174,7 @@
             "comment": "",
             "link": "https://griffonsocks.com.ua/product/low-space-bamboo/",
             "priority": "2",
-            "checked": false
+            "checked": true
         },
         {
             "name": "Кулон 'Еверест'",
@@ -1230,7 +1230,7 @@
             "comment": "",
             "link": "https://desktopgames.com.ua/arkham_horror.html",
             "priority": "2",
-            "checked": false
+            "checked": true
         },
         {
             "name": "Brass. Бирмингем",
@@ -1266,7 +1266,7 @@
             "comment": "",
             "link": "https://desktopgames.com.ua/dungeoneer-tomb-rus.html",
             "priority": "1",
-            "checked": false
+            "checked": true
         },
         {
             "name": "Майор Гром: Мафия",
@@ -1351,7 +1351,7 @@
             "comment": "",
             "link": "https://asiafoods.com.ua/p355054840-lapsha-bystrogo-prigotovleniya.html",
             "priority": "1",
-            "checked": false
+            "checked": true
         },
         {
             "name": "Лапша быстрого приготовления в стакане со вкусом курици и грибов CUP Noodles",
