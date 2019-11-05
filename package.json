@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "main": "src/mystyles.scss",
-  "homepage": "http://ForestedVertilo.github.io/wishlist",
+  "homepage": "http://forestedvertilo.github.io/wishlist",
   "dependencies": {
     "bulma": "^0.7.5",
     "gh-pages": "^1.2.0",
