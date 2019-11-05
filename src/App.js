@@ -22,9 +22,9 @@ class App extends Component {
       modalItem: {},
       сurrency: '₴',
       exchange: {
-        "₴": 24.8041,
-        "₽": 63.3588,
-        "¥": 108.833,
+        "₴": 24.804,
+        "₽": 63.359,
+        "¥": 108.83,
         "$": 1
       }
     }
