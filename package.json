@@ -6,6 +6,7 @@
   "homepage": "http://ForestedVertilo.github.io/wishlist",
   "dependencies": {
     "bulma": "^0.7.5",
+    "gh-pages": "^1.2.0",
     "jquery": "^3.4.1",
     "nes.css": "^2.2.0",
     "node-sass": "^4.12.0",
