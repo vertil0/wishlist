@@ -9,7 +9,7 @@
     "gh-pages": "^1.2.0",
     "jquery": "^3.4.1",
     "nes.css": "^2.2.0",
-    "node-sass": "^4.12.0",
+    "node-sass": "^4.13.1",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-media": "^1.9.2"
